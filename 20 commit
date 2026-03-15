@@ -1,0 +1,20 @@
+Established the base project directory, initialized version control, and prepared the foundational structure for the Flask application.
+Specified external Python dependencies to ensure consistent and reproducible environment setup.
+Defined a domain model to represent real-world business entities using Object-Oriented Programming principles.
+Utilized Python’s standard datetime module to record creation timestamps for business records.
+Implemented an instance method to provide a formatted and encapsulated representation of business data.
+Created and configured the Flask application object to handle routing and HTTP requests.
+Applied a Stack (Last-In-First-Out) data structure to manage business entries efficiently.
+Implemented the root route to retrieve and display stored business data to users.
+Created a route to process form submissions, instantiate new business objects, and store them in memory.
+Enabled data exchange between the Flask backend and HTML templates using Jinja2 templating.
+Developed the primary user interface for displaying registered businesses.
+Implemented an HTML form to collect and submit business information via POST requests.
+Added a dedicated view to display recently added businesses using stack traversal logic.
+Improved application usability by adding navigation links between pages.
+Enforced client-side validation to prevent submission of incomplete or invalid form data.
+Maintained a clear separation of concerns between business logic, routing, and presentation layers.
+Conducted functional testing of all application routes to ensure stability and correctness.
+Created technical documentation describing the application’s purpose and features.
+Documented step-by-step instructions for dependency installation and local execution.
+Performed final code review, cleanup, and ensured readiness for academic submission.
