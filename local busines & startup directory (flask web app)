@@ -1,0 +1,14 @@
+Project Title: Local Business & Startup Directory (Flask Web App)
+Submitted by: Bello yamusa
+Description:
+This project is a simple web application built using Python and Flask. It allows users to add and view local businesses and startups in a directory. Each listing includes the business name, category, location, and contact information. The application demonstrates basic web development concepts such as routing, form handling, and data display.
+Features:
+Add new businesses or startups
+View all business listings
+Display business details (name, category, location, contact)
+Instructions to Run:
+Install Flask: pip install flask
+Run the app: python app.py
+Open browser and go to: http://127.0.0.1:5000
+GitHub Link (if applicable):
+https://github.com/belloyamusa/local-business-directory
